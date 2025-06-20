@@ -4,6 +4,9 @@ docs/
 # Cursor AI settings (exclude from repository)
 .cursor/
 
+# SpecStory history (exclude from repository)
+.specstory/
+
 # OS generated files
 .DS_Store
 .DS_Store?
